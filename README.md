@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 # practice
-implement code by creating data of skills and using map method
+implement code by creating data and using map method
